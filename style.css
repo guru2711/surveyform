@@ -1,0 +1,24 @@
+.details {
+  /* padding: 1rem; */
+  display: inline-block;
+}
+.mail-details {
+  margin-top: 15px;
+}
+
+.lastname {
+  left: 129px;
+  position: relative;
+}
+.experience {
+  margin-top: 15px;
+}
+
+.required label {
+  font-weight: bold;
+}
+.required label:after {
+  color: #e32;
+  content: " *";
+  display: inline;
+}
